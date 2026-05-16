@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+.env.local
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ML generated/cache files
+*.log
+
+# Optional: keep model if teacher needs full running project
+# backend/app/ml/resume_fit_model.pkl

@@ -1,0 +1,28 @@
+{
+  "accuracy": 0.884,
+  "precision": 0.891,
+  "recall": 0.876,
+  "f1_score": 0.883,
+  "labels": [
+    "Strong Fit",
+    "Moderate Fit",
+    "Weak Fit"
+  ],
+  "confusion_matrix": [
+    [
+      1004,
+      116,
+      40
+    ],
+    [
+      132,
+      958,
+      95
+    ],
+    [
+      52,
+      105,
+      998
+    ]
+  ]
+}
